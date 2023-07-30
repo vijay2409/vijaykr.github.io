@@ -1,7 +1,8 @@
 #tools {
-  margin-top: 100px;
-  margin-bottom: 50px;
   width: 100%;
+  margin: auto;
+    margin-top: 80px;
+    margin-bottom: 50px;
 }
 #tools-heading {
   margin: auto;
@@ -20,6 +21,7 @@
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   row-gap: 50px;
+  column-gap: 20px;
 }
 .tools-card {
   width: 150px;

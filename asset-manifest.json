@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2daad5c9.css",
+    "main.js": "/static/js/main.ec905de2.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/Vijay_s_Resume.pdf": "/static/media/Vijay_s_Resume.9462ffab860bc7f7a0c8.pdf",
+    "index.html": "/index.html",
+    "main.2daad5c9.css.map": "/static/css/main.2daad5c9.css.map",
+    "main.ec905de2.js.map": "/static/js/main.ec905de2.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2daad5c9.css",
+    "static/js/main.ec905de2.js"
+  ]
+}

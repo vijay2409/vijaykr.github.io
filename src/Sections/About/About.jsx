@@ -17,7 +17,7 @@ const About = () => {
             facilitating organization in achieving functional goals.
           </p>
           <div id="profile-pic">
-            <img src="/image/vijay.jpg" alt="Shreshth Kumar" />
+            <img src="/image/vijay.jpg" alt="Vijay Kumar" />
           </div>
         </div>
       </div>

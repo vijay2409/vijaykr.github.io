@@ -10,7 +10,7 @@ const Contact = () => {
     return <p style={{ color: "#444444" }}>Thanks for Reaching Out!</p>;
   }
   const handleOpenMailPage = () => {
-    window.open("mailto:vijaykumar.tech.24.com");
+    window.open("mailto:vijaykumar.tech.24@gmail.com");
   };
   const handleGit = () => {
     window.open("https://github.com/vijay2409");

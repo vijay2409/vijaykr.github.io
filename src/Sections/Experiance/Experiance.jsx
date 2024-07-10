@@ -11,7 +11,7 @@ const Projects = () => {
           <div className="project-card">
             <div className="project-title">
               <img src="image/cg.png" alt="" />
-              <h3>Designation - Software Engineer</h3>
+              <h3>Designation - Senior Software Engineer</h3>
             </div>
             <div className="project-description">
               <p>

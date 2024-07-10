@@ -31,7 +31,11 @@ const Tech_skills = [
     img: "https://img.icons8.com/officel/256/react.png",
   },
 
-  { id: 8, skill: "Node", img: "https://img.icons8.com/color/256/nodejs.png" },
+  {
+    id: 8,
+    skill: "MicroServices",
+    img: "https://img.icons8.com/?size=100&id=NHf3Nw8jio00&format=png&color=000000",
+  },
   {
     id: 9,
     skill: "MongoDb",

@@ -10,13 +10,13 @@ const Contact = () => {
     return <p style={{ color: "#444444" }}>Thanks for Reaching Out!</p>;
   }
   const handleOpenMailPage = () => {
-    window.open("mailto:zvijay2409.com");
+    window.open("mailto:vijaykumar.tech.24.com");
   };
   const handleGit = () => {
-    window.open("https://github.com/shreshthkr");
+    window.open("https://github.com/vijay2409");
   };
   const handleLikedin = () => {
-    window.open("https://www.linkedin.com/in/shreshthkumar1263/");
+    window.open("https://www.linkedin.com/in/vijay-kumar-951596111/");
   };
   return (
     <>
@@ -51,8 +51,8 @@ const Contact = () => {
             <p id="contact-phone">
               <MdCall className="phone-icon" /> +918651951219
             </p>
-            <a id="contact-email" href="zvijay2409@gmail.com">
-              <MdEmail className="mail-icon" /> zvijay2409@gmail.com
+            <a id="contact-email" href="vijaykumar.tech.24@gmail.com">
+              <MdEmail className="mail-icon" /> vijaykumar.tech.24@gmail.com
             </a>
           </div>
           <div id="formbox">

@@ -3,7 +3,6 @@ const path = require("path");
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
-  base: "/vijaykr.github.io/",
   e2e: {
     setupNodeEvents(on, config) {
       // implement node event listeners here
